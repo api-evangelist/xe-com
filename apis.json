@@ -1,0 +1,86 @@
+{
+    "name": "XE.com",
+    "description": "Get free live currency rates, tools, and analysis using the most accurate data. Other services include XE Money Transfer, XE Datafeed, and more!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26593-xe-com.jpg",
+    "tags": [
+        "blockchain",
+        "currencies",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/xe-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "XE.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26593-xe-com.jpg",
+            "humanURL": "https:\/\/xe.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xe-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xe-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/xe-com-inc"
+        },
+        {
+            "type": "Email",
+            "url": "currency@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "humanresources@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "transfers@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "data@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "billing@xe.com"
+        },
+        {
+            "type": "Email",
+            "url": "newsletter@xe.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/xe"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/xe.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.xe.com"
+        }
+    ]
+}
